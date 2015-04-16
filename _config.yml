@@ -1,0 +1,15 @@
+# Site settings
+title: Embedded Projects with Raspberry Pi, Arduino  Launchpad
+email: greendogdevelop@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This Blog is about Science Projects, Hobby Projects and Prototyping
+  for Commercial Products with Raspberry Pi, Arduino and Launchpad using 
+  C, C++ or Python.  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: greendogdevelop
+github_username:  greendogs
+
+# Build settings
+markdown: kramdown
+

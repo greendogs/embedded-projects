@@ -4,17 +4,17 @@ title:  "Secrurity and Infotainment System for Bicycles"
 date:   2015-04-16 17:13:37
 categories: bikepi prototype
 ---
-Overview over the systems functionality:
-* Alarm with Email notification, motion detection, alarm sound, camera, GPS tracking
-* Surveillance camera
-* Makes the Bicycle an Internet of Things
-* Bicycle tour recording system with video recording ACTION CAMERA and GPS TRACKING
+* Overview over the systems functionality:
+- Alarm with Email notification, motion detection, alarm sound, camera, GPS tracking
+- Surveillance camera
+- Makes the Bicycle an Internet of Things
+- Bicycle tour recording system with video recording ACTION CAMERA and GPS TRACKING
 
 AND LAST BUT NOT LEAST SOME FUTURE IDEAS:
 
-LET THE SYSTEMS TALK TO EACH OTHER AND ASK FOR HELP, IN CASE ..
-* Can be connected to other services
-* EMERGENCY SYSTEM WITH EMERGENCY BUTTON 
+* LET THE SYSTEMS TALK TO EACH OTHER AND ASK FOR HELP, IN CASE ..
+- Can be connected to other services
+- EMERGENCY SYSTEM WITH EMERGENCY BUTTON 
  "ON BIKE"
 
 The first version, the DIY OpenSource version, will properly be available in Sping 2015. The commercial version will follow.

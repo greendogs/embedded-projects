@@ -11,5 +11,8 @@ twitter_username: greendogdevelop
 github_username:  greendogs
 
 # Build settings
-markdown: kramdown
+name: Embedded Projects
+markdown: redcarpet
+pygments: true
+baseurl: /embedded-projects
 

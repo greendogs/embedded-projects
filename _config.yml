@@ -14,5 +14,5 @@ github_username:  greendogs
 name: Embedded Projects
 markdown: redcarpet
 pigments: true
-# baseurl: /embedded-projects
+baseurl: /embedded-projects
 

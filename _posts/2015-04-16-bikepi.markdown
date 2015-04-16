@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Secrurity and Infotainment System for Bicycles"
+title:  "Embedded Secrurity and Infotainment System for Bicycles"
 date:   2015-04-16 17:13:37
 categories: bikepi prototype
 ---

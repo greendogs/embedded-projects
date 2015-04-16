@@ -4,7 +4,7 @@ title:  "Secrurity and Infotainment System for Bicycles"
 date:   2015-04-16 17:13:37
 categories: bikepi prototype
 ---
-Overview over the systems functionality:
+## Overview over the systems functionality:
 
 * Alarm with Email notification, motion detection, alarm sound, camera, GPS tracking
 - Surveillance camera

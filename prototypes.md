@@ -7,7 +7,7 @@ permalink: /prototypes/
 ### Prototype BikePi
 
 This is the first Demo-Version/ Prototype for the "Security and Infotainment System for Bicycles".
-It is bases on Raspberry A. [extern blog with the description](http://bike-pi.blogspot.com/)
+It is based on Raspberry A. [=> extern blog with the description](http://bike-pi.blogspot.com/)
 
 ### Prototype BikePi 2
 

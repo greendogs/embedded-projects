@@ -4,7 +4,7 @@ email: greendogdevelop@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Blog is build on Github Pages and made with Jekyll.
   Clean, beautiful, fast and responsive.
-
+baseurl: /embedded-projects
 url: "http://greendogs.github.io/embedded-projects/" # the base hostname & protocol for your site
 twitter_username: greendogdevelop
 github_username:  greendogs
@@ -12,6 +12,7 @@ github_username:  greendogs
 # Build settings
 name: Embedded Projects
 markdown: redcarpet
-highlighter: pygments
-baseurl: /embedded-projects
+highlighter: null
+pygments: false
+
 

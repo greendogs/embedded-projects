@@ -12,6 +12,7 @@ github_username:  greendogs
 # Build settings
 name: Embedded Projects
 markdown: redcarpet
-highlighter: pygments
+highlighter: null
+#pygments: false
 
 

@@ -12,6 +12,7 @@ It is based on Raspberry A. [=> extern blog with the description](http://bike-pi
 ### Prototype BikePi 2
 
 This will be the improved version of BikePi based on A+.
+New Add: Twitter
 
 
 In the future, all the extern descriptions will be moved to this blog and connect with their repositories. 
